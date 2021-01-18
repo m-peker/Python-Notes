@@ -3,7 +3,7 @@
 Python is a strong multi-purpose programming language created by Guido van Rossum. Python has simple easy-to-use syntax, making it the excellent language for someone trying to learn computer programming for the first time.
 Notes on the Python programming language are shared in this document. Notes are constantly updated.
 
-<center>![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/375px-Python_logo_and_wordmark.svg.png)</center>
+<p align="center">![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/375px-Python_logo_and_wordmark.svg.png)</p>
 
 <b><font color="red">Python-Basics</font></b>
 
