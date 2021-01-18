@@ -48,3 +48,7 @@ Kalıtım (Inheritance)
 <b><font color="red">Exeption Handling</font></b>
 
 In this tutorial, you'll learn how to handle exceptions in your Python program using try, except and finally statements with the help of examples.
+
+Iterators
+
+In this section, we will try to learn how to create and use iterators and how to write our own objects iterable.
