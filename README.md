@@ -59,4 +59,4 @@ In this section, you'll learn how to create and use iterators and how to write o
 
 <b><font color="red">Generators  (in Turkish)</font></b>
 
-In this lesson we will try to understand the generators in Python.
+In this section, we will try to understand the generators in Python.
