@@ -53,6 +53,10 @@ Kalıtım (Inheritance)
 
 In this tutorial, you'll learn how to handle exceptions in your Python program using try, except and finally statements with the help of examples.
 
-<b><font color="red">Iterators</font></b>
+<b><font color="red">Iterators  (in Turkish)</font></b>
 
 In this section, you'll learn how to create and use iterators and how to write our own objects iterable.
+
+<b><font color="red">Generators  (in Turkish)</font></b>
+
+In this lesson we will try to understand the generators in Python.
